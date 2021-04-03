@@ -1,0 +1,40 @@
+:root {
+    --main: #18C6E7;
+    --text: #040708;
+}
+
+
+a:link {
+  color:darkblue;
+}
+
+.container {
+    font-size: 1.6em;
+    background-color: var(--main);
+}
+
+.title {
+    background-color: #45A29E;
+}
+
+#item1 {
+    color: var(--text)
+}
+
+.body {
+    font-size: 1.6em;
+    background-color: #1F2833;
+    
+}
+
+p {color: var(--text)}
+
+.row
+{
+    border: 2px solid white;
+}
+
+.html
+{
+    background-color: var(--main);
+}
